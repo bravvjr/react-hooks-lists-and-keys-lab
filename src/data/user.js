@@ -7,7 +7,7 @@ const user = {
     github: "https://github.com/liza",
     linkedin: "https://www.linkedin.com/in/liza/",
   },
-  projects: [
+  projects: [ 
     {
       id: 1,
       name: "Reciplease",
